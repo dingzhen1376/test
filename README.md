@@ -12,7 +12,7 @@ Ubuntu 20.04.[Ubuntu Installation](https://www.releases.ubuntu.com/focal/)
 ROS Noetic: [ROS Installation](http://wiki.ros.org/ROS/Installation)
 
 ### 1.2 Ceres Sovler
-The 1.14.0 version is used in this project, we recommend installing it using following command
+The 1.14.0 version is used in this project, we recommend installing it using following command:
 ```
 sudo apt-get install libceres-dev
 ```
