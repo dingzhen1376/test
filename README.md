@@ -13,20 +13,20 @@ ROS Noetic: [ROS Installation](http://wiki.ros.org/ROS/Installation)
 
 ### 1.2 Ceres Sovler
 The 1.14.0 version is used in this project, we recommend installing it using following command
-'''
+```
 sudo apt-get install libceres-dev
-'''
+```
 ### 1.3 OpenCV
 OpenCV 4.2.0,If you are using the Noetic version of ROS, it comes with OpenCV 4.2.0 pre - installed.
 
 ## Build VINS-Mah
 Clone the repository and catkin build:
-'''
+```
 cd ~/catkin_ws/src
 git clone https://github.com/hyq123-cmd/VINS-Mah.git
 cd ../
 catkin build vins_mah
 source ~/catkin_ws/devel/setup.bash
-'''
+```
 ## License
 This project is licensed under the GNU General Public License v3.0 (GPLv3), in accordance with the license of the original project it is based on.
